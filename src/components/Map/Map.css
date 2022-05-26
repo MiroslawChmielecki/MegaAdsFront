@@ -1,6 +1,6 @@
 .map {
-    background: cadetblue;
-    height: calc(100vh - 49px) ;
+    background: green;
+    height: calc(100vh - 49px);
 }
 
 .leaflet-container {
